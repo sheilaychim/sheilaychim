@@ -23,7 +23,7 @@ I am excited to continue advancing in the field, with a strong focus on transiti
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 
 
