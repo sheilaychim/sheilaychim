@@ -25,12 +25,14 @@ I am excited to continue advancing in the field, with a strong focus on transiti
 ## Tools
 
 
-<img src="https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-CrowdStrike-E01E36?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
 
 
+## Currently Learning
 
+<img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 
 ## Certifications
 
