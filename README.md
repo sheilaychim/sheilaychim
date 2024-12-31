@@ -27,6 +27,7 @@ I am excited to continue advancing in the field, with a strong focus on transiti
 
 <img src="https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-CrowdStrike-E01E36?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
 
 
 
@@ -35,7 +36,7 @@ I am excited to continue advancing in the field, with a strong focus on transiti
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Cyber%20Defense%20and%20Analysis-006400?&style=for-the-badge&logo=Palomar%20College&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cyber%20Defense%20and%20Analysis-006400?&style=for-the-badge&logo=Palomar%20College&logoColor=white" /> 
 
 
 </div>
